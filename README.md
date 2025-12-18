@@ -7,35 +7,32 @@ GitHub
 
 Digital Logic Design is a foundational course in electrical and computer engineering that covers the principles of digital systems. Topics typically include:
 
-Boolean algebra and logic simplification
+- Boolean algebra and logic simplification
 
-Logic gates and combinational circuits
+- Logic gates and combinational circuits
 
-Karnaugh maps and circuit minimization
+- Karnaugh maps and circuit minimization
 
-Sequential circuits like flip-flops, counters, and registers
-
-Hardware description languages and simulation tools 
-Scribd
+- Sequential circuits like flip-flops, counters, and registers
 
 The labs in this repo are designed to reinforce these theories with practical implementation and problem solving.
 
 # 🗂️ Repository Structure
 Digital-Logic-Design/
-├── Labs (Solved)/
-│   ├── Lab-1 …
-│   ├── Lab-2 …
-│   └── …
-├── README.md
-└── .gitattributes
+ ├── Labs (Solved)/
+ │   ├── Lab-1 …
+ │   ├── Lab-2 …
+ │   └── …
+ ├── README.md
+ └── .gitattributes
 
 Each lab folder includes:
 
-Problem descriptions
+- Problem descriptions
 
-Solutions (simulations, schematics, Verilog code, etc.)
+- Solutions (simulations, schematics, Verilog code, etc.)
 
-Report or observations (if applicable)
+- Report or observations (if applicable)
 
 # 📌 How to Use This Repo
 
