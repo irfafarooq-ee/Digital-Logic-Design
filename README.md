@@ -18,12 +18,18 @@ Digital Logic Design is a foundational course in electrical and computer enginee
 The labs in this repo are designed to reinforce these theories with practical implementation and problem solving.
 
 # 🗂️ Repository Structure
-Digital-Logic-Design/
- ├── Labs (Solved)/
+Digital-Logic-Design
+
+ ├── Labs (Solved)
+ 
  │   ├── Lab-1 …
+ 
  │   ├── Lab-2 …
+ 
  │   └── …
+ 
  ├── README.md
+ 
  └── .gitattributes
 
 Each lab folder includes:
