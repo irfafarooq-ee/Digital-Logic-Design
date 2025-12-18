@@ -54,9 +54,9 @@ Feel free to contribute your own improvements or additional labs!
 
 Most labs in this course use one or more of the following tools:
 
-Modelsim or other logic circuit simulators ([Modelsim Installation Link](https://nustedupk0-my.sharepoint.com/:f:/g/personal/ifarooq_bee22seecs_student_nust_edu_pk/IgC2K1or-eydTa19f1tLA6QjARnie0qqvjCVIv9RbKJAzKw?e=6LkcYj))
+Modelsim or other logic circuit simulators ([Modelsim Installation Link](https://drive.google.com/drive/folders/1wD341J-ZksQPMlBqE84F8wDa51nmj7yS?usp=sharing))
 
-Proteas for simulation purposes ([Proteas Installation Link](https://nustedupk0-my.sharepoint.com/:f:/g/personal/ifarooq_bee22seecs_student_nust_edu_pk/IgDd7MWBHQAMSq3QMgVZv8bsAX1j2eY94h-RYi5iAyrMFkk?e=KgrckF))
+Proteas for simulation purposes ([Proteas Installation Link](https://drive.google.com/drive/folders/1SboaDGxlCH4p81P-BtGXFuJmLTeMRBTI?usp=sharing))
 
 # 🤝 Contributing
 
