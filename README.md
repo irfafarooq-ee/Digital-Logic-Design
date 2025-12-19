@@ -3,6 +3,8 @@
 Welcome to the Digital Logic Design repository! This repo contains lab solutions and experiment write-ups for the Digital Logic Design course, helping students understand and practice core digital logic concepts through hands-on labs. 
 GitHub
 
+---
+
 # 🧠 About the Course
 
 Digital Logic Design is a foundational course in electrical and computer engineering that covers the principles of digital systems. Topics typically include:
@@ -16,6 +18,8 @@ Digital Logic Design is a foundational course in electrical and computer enginee
 - Sequential circuits like flip-flops, counters, and registers
 
 The labs in this repo are designed to reinforce these theories with practical implementation and problem solving.
+
+---
 
 # 🗂️ Repository Structure
 Digital-Logic-Design
@@ -40,15 +44,24 @@ Each lab folder includes:
 
 - Report or observations (if applicable)
 
-# 📌 How to Use This Repo
+---
 
-Browse labs under the Labs (Solved) directory
+# 🧪 Getting Started
+### 1. Clone the Repository
+```bash
+git clone https://github.com/irfafarooq-ee/Digital-Logic-Design
+```
 
-Open individual lab folders to view solutions
+### 2. Navigate to the Project Directory
+Copy code
+```bash
+cd Google-Forms-using-OOP
+```
 
-Use provided code or diagrams for your own learning or reference
+### 3. Compile and Run
+Compile the example programs using a C++ compiler such as g++, gcc, etc.:
 
-Feel free to contribute your own improvements or additional labs!
+---
 
 # 📚 Tools & Software
 
@@ -58,15 +71,17 @@ Modelsim or other logic circuit simulators ([Modelsim Installation Link](https:/
 
 Proteas for simulation purposes ([Proteas Installation Link](https://drive.google.com/drive/folders/1SboaDGxlCH4p81P-BtGXFuJmLTeMRBTI?usp=sharing))
 
+---
+
 # 🤝 Contributing
 
 Contributions are welcome! You can help by:
 
-Adding missing lab solutions
+-Adding missing lab solutions
 
-Improving documentation
+-Improving documentation
 
-Adding simulation files or testbenches
+-Adding simulation files or testbenches
 
 To contribute:
 
@@ -76,6 +91,8 @@ Create a new branch
 
 Submit a pull request with your changes
 
-# 🙌 Questions
+---
 
-If you have any questions or suggestions, feel free to open an issue or contact the repository owner.
+# 📜 License
+
+This repository is provided for learning and development purposes. You may use and adapt the schematics as needed.
