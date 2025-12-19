@@ -55,7 +55,7 @@ git clone https://github.com/irfafarooq-ee/Digital-Logic-Design
 ### 2. Navigate to the Project Directory
 Copy code
 ```bash
-cd Google-Forms-using-OOP
+cd Digital-Logic-Design
 ```
 
 ### 3. Compile and Run
